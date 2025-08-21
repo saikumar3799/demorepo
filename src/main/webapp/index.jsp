@@ -811,7 +811,7 @@
             
             <div class="search-bar">
                 <input type="text" placeholder="Search products...">
-                <button type="submit"><i class="fas fa-search"></i></button>
+                <button type="submit"><em class="fas fa-search"></em></button>
             </div>
             
             <div class="header-icons">
